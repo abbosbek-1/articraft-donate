@@ -7,10 +7,10 @@ app = Flask(__name__, static_folder="../dist", static_url_path="/")
 app.secret_key = os.environ.get("SECRET_KEY", "articraft-ultra-secret-2024")
 
 # ========== SOZLAMALAR ==========
-ADMIN_USERNAME     = "ArtiAdmin"
-ADMIN_PASSWORD     = "ArtiCraft2024!"
-TELEGRAM_BOT_TOKEN = "8698585237:AAEhWf6nqxGvJUq8UzHqlW_KY9Lgsd0OMf4"
-TELEGRAM_CHAT_IDS  = ["5715390364", "8354817361"]
+ADMIN_USERNAME     = "ArtiCraft"
+ADMIN_PASSWORD     = "ArtiCraft_Admin!"
+TELEGRAM_BOT_TOKEN = "8650939619:AAGMK8kWApNP1ChNl4mIvoJZLVYxxqzwAZY"
+TELEGRAM_CHAT_IDS  = ["7525284376", "8354817361"]
 MIRPAY_SECRET      = os.environ.get("MIRPAY_SECRET", "mirpay-webhook-secret")
 MIRPAY_MERCHANT_ID = os.environ.get("MIRPAY_MERCHANT_ID", "YOUR_MERCHANT_ID")
 MIRPAY_API_KEY     = os.environ.get("MIRPAY_API_KEY", "YOUR_API_KEY")
