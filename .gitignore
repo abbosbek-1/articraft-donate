@@ -8,6 +8,10 @@ build/
 backend/
 backend/**
 
+# Vite va cache
+.vite/
+.cache/
+
 # OS va IDE fayllari
 .DS_Store
 .vscode/
