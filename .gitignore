@@ -1,0 +1,14 @@
+# Node.js / Frontend
+node_modules/
+dist/
+build/
+.env
+
+# Backend papkani yashirish
+backend/
+backend/**
+
+# OS va IDE fayllari
+.DS_Store
+.vscode/
+.idea/
