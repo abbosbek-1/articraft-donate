@@ -1,0 +1,182 @@
+{
+  "ranks": {
+    "anarxiya": [
+      {
+        "id": "imperator",
+        "name": "Imperator",
+        "emoji": "😀",
+        "color": "#FFD700",
+        "price_month": 86000,
+        "price_life": 260000
+      },
+      {
+        "id": "general",
+        "name": "General",
+        "emoji": "🌛",
+        "color": "#C0C0C0",
+        "price_month": 68000,
+        "price_life": 200000
+      },
+      {
+        "id": "afsona",
+        "name": "Afsona",
+        "emoji": "💀",
+        "color": "#9B59B6",
+        "price_month": 48000,
+        "price_life": 145000
+      },
+      {
+        "id": "elita",
+        "name": "Elita",
+        "emoji": "⭐️",
+        "color": "#3498DB",
+        "price_month": 37000,
+        "price_life": 110000
+      },
+      {
+        "id": "titan",
+        "name": "Titan",
+        "emoji": "⚡️",
+        "color": "#E74C3C",
+        "price_month": 29000,
+        "price_life": 86000
+      },
+      {
+        "id": "alpomish",
+        "name": "Alpomish",
+        "emoji": "💎",
+        "color": "#1ABC9C",
+        "price_month": 22000,
+        "price_life": 68000
+      },
+      {
+        "id": "ritsar",
+        "name": "Ritsar",
+        "emoji": "⚔️",
+        "color": "#E67E22",
+        "price_month": 16000,
+        "price_life": 45000
+      },
+      {
+        "id": "qahramon",
+        "name": "Qahramon",
+        "emoji": "🏅",
+        "color": "#27AE60",
+        "price_month": 10000,
+        "price_life": 34000
+      },
+      {
+        "id": "askar",
+        "name": "Askar",
+        "emoji": "✅",
+        "color": "#7F8C8D",
+        "price_month": 6000,
+        "price_life": 17000
+      }
+    ],
+    "arti_smp": [
+      {
+        "id": "art",
+        "name": "Art",
+        "emoji": "👁",
+        "color": "#E74C3C",
+        "price_month": 30000,
+        "price_life": null
+      }
+    ]
+  },
+  "tokens": [
+    {
+      "amount": 20000,
+      "price": 20000
+    },
+    {
+      "amount": 15000,
+      "price": 15000
+    },
+    {
+      "amount": 10000,
+      "price": 10000
+    },
+    {
+      "amount": 5000,
+      "price": 5000
+    },
+    {
+      "amount": 1000,
+      "price": 1000
+    }
+  ],
+  "keys": [
+    {
+      "id": "common",
+      "name": "Common Key",
+      "emoji": "🔑",
+      "price": 2000,
+      "color": "#95A5A6"
+    },
+    {
+      "id": "crimson",
+      "name": "Crimson Key",
+      "emoji": "🔑",
+      "price": 20000,
+      "color": "#E74C3C"
+    },
+    {
+      "id": "prime",
+      "name": "Prime Key",
+      "emoji": "🔑",
+      "price": 15000,
+      "color": "#3498DB"
+    },
+    {
+      "id": "gold",
+      "name": "Gold Key",
+      "emoji": "🔑",
+      "price": 15000,
+      "color": "#F39C12"
+    },
+    {
+      "id": "amethyst",
+      "name": "Amethyst Key",
+      "emoji": "🔑",
+      "price": 40000,
+      "color": "#9B59B6"
+    }
+  ],
+  "shards": [
+    {
+      "amount": 500,
+      "price": 5000
+    },
+    {
+      "amount": 1000,
+      "price": 10000
+    },
+    {
+      "amount": 2000,
+      "price": 20000
+    }
+  ],
+  "other": [
+    {
+      "id": "unban",
+      "name": "UNBAN",
+      "emoji": "🔒",
+      "price": 20000,
+      "desc": "Banorqali chiqish"
+    },
+    {
+      "id": "titul_1",
+      "name": "Titul 1 harf",
+      "emoji": "😎",
+      "price": 5000,
+      "desc": "Battle Royale uchun, min 2 ta harf"
+    }
+  ],
+  "payment_card": "9860140110886403",
+  "payment_owner": "Jasur Abdullayev",
+  "discord": "https://discord.gg/articraft",
+  "telegram": "https://t.me/articraft",
+  "server_ip": "play.articraft.uz"
+}
